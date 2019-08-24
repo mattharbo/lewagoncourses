@@ -1,0 +1,39 @@
+/*Google fonts*/
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Paytone+One');
+
+/*Component design*/
+@import url("components/app_header.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/gameblock.css");
+@import url("components/message.css");
+@import url("components/titles.css");
+@import url("components/nav-app.css");
+
+/*Fonts & colors*/
+body{
+	font-family: 'Cabin', sans-serif;
+	margin: 0;
+	color: #252A34;
+	background-color: #FBFBFB; 
+}
+h1, h2, h3{
+	font-family: 'Paytone One', sans-serif;
+	margin-bottom: 0;
+}
+.container{
+	display: flex;
+	justify-content: space-between;
+	max-width: 1000px;
+	margin: 25px auto;
+	/*background-color: red;*/
+}
+
+.left-container{
+	/*background-color: yellow;*/
+}
+
+.right-container{
+	/*background-color: orange;	*/
+}

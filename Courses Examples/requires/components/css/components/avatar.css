@@ -1,0 +1,13 @@
+.avatar-small{
+	border-radius: 50%;
+	height: 28px;
+	width: 28px;
+}
+.avatar-big{
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+}
+.avatar-right-marging{
+	margin-right: 20px;
+}

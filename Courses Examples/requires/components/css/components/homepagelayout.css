@@ -1,0 +1,57 @@
+.wrapper-bg{
+	width: 100%;
+	height: 450px;
+	margin: 0;
+	background: url(../../images/bg-shapes.png) no-repeat;
+	background-position: center bottom;
+}
+.pinkdot{
+	color: #da2754; /*FF2E63*/
+	font-weight: lighter;
+}
+.subtagline{
+	color: #252A34;
+	width: 555px;
+	text-align: center;
+	margin: 40px auto;
+}
+.form-newletter{
+	display: flex;
+	align-items: center;
+	width: 400px;
+	margin: 0 auto;
+	justify-content: space-between;
+}
+.input-email{
+	font-family: 'Cabin', sans-serif;
+	width: 250px;
+	height: 40px;
+	border-radius: 5px;
+	font-size: 14px;
+	padding-left: 20px;
+	border: 1px solid #CCCCCC; /*dbe7f0*/
+	/*background-color: #f1f8fc;*/
+}
+.input-email::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #EAEAEA;
+  font-family: 'Cabin', sans-serif;
+  opacity: 1; /* Firefox */
+}
+.input-email:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #EAEAEA;
+}
+.input-email::-ms-input-placeholder { /* Microsoft Edge */
+  color: #EAEAEA;
+}
+.wrapper-greygradient{
+	width: 100%;
+	height: 360px;
+	background-image: linear-gradient(#f9f9f9, #FFFFFF);
+	margin: 0;
+}
+.about-detail{
+	color: #252A34;
+	margin-top: 20px;
+	text-align: justify;
+    text-justify: inter-word;
+}

@@ -1,0 +1,456 @@
+{
+  "results":1,
+  "fixtures":[
+    {
+      "fixture_id":157432,
+      "league_id":525,
+      "event_date":"2019-08-18T19:00:00+00:00",
+      "event_timestamp":1566154800,
+      "firstHalfStart":1566154800,
+      "secondHalfStart":1566158400,
+      "round":"Regular Season - 2",
+      "status":"Match Finished",
+      "statusShort":"FT",
+      "elapsed":90,
+      "venue":"Roazhon Park",
+      "referee":"NULL",
+      "homeTeam":{
+        "team_id":94,
+        "team_name":"Rennes",
+        "logo":"https://media.api-football.com/teams/94.png"
+      },
+      "awayTeam":{
+        "team_id":85,
+        "team_name":"Paris Saint Germain",
+        "logo":"https://media.api-football.com/teams/85.png"
+      },
+      "goalsHomeTeam":2,
+      "goalsAwayTeam":1,
+      "score":{
+        "halftime":"1-1",
+        "fulltime":"2-1",
+        "extratime":"NULL",
+        "penalty":"NULL"
+      },
+      "events":[
+        {
+          "elapsed":36,
+          "team_id":85,
+          "teamName":"Paris Saint Germain",
+          "player_id":274,
+          "player":"E. Cavani",
+          "type":"Goal",
+          "detail":"Normal Goal"
+        },
+        {
+          "elapsed":43,
+          "team_id":85,
+          "teamName":"Paris Saint Germain",
+          "player_id":267,
+          "player":"J. Draxler",
+          "type":"Card",
+          "detail":"Yellow Card"
+        },
+        {
+          "elapsed":44,
+          "team_id":94,
+          "teamName":"Rennes",
+          "player_id":"NULL",
+          "player":"M. Niang",
+          "type":"Goal",
+          "detail":"Normal Goal"
+        },
+        {
+          "elapsed":48,
+          "team_id":94,
+          "teamName":"Rennes",
+          "player_id":"NULL",
+          "player":"R. del Castillo",
+          "type":"Goal",
+          "detail":"Normal Goal"
+        },
+        {
+          "elapsed":54,
+          "team_id":85,
+          "teamName":"Paris Saint Germain",
+          "player_id":264,
+          "player":"T. Meunier",
+          "type":"Card",
+          "detail":"Yellow Card"
+        },
+        {
+          "elapsed":59,
+          "team_id":85,
+          "teamName":"Paris Saint Germain",
+          "player_id":273,
+          "player":"M. Verratti",
+          "type":"Card",
+          "detail":"Yellow Card"
+        },
+        {
+          "elapsed":67,
+          "team_id":85,
+          "teamName":"Paris Saint Germain",
+          "player_id":"NULL",
+          "player":"J. Bernat",
+          "type":"Card",
+          "detail":"Yellow Card"
+        },
+        {
+          "elapsed":85,
+          "team_id":94,
+          "teamName":"Rennes",
+          "player_id":"NULL",
+          "player":"T. Siebatcheu",
+          "type":"Card",
+          "detail":"Yellow Card"
+        },
+        {
+          "elapsed":88,
+          "team_id":85,
+          "teamName":"Paris Saint Germain",
+          "player_id":274,
+          "player":"E. Cavani",
+          "type":"Card",
+          "detail":"Yellow Card"
+        }
+    ],
+    "lineups":{
+      "Rennes":{
+        "formation":"5-3-2",
+        "startXI":[
+          {
+            "team_id":94,
+            "player_id":1472,
+            "player":"Romain Salin",
+            "number":1,
+            "pos":"G"
+          },
+          {
+            "team_id":94,
+            "player_id":2202,
+            "player":"Hamari Traore",
+            "number":27,
+            "pos":"D"
+          },
+          {
+            "team_id":94,
+            "player_id":2196,
+            "player":"Damien Da Silva",
+            "number":3,
+            "pos":"D"
+          },
+          {
+            "team_id":94,
+            "player_id":2199,
+            "player":"Jeremy Gelin",
+            "number":26,
+            "pos":"D"
+          },
+          {
+            "team_id":94,
+            "player_id":654,
+            "player":"Jérémy Morel",
+            "number":15,
+            "pos":"D"
+          },
+          {
+            "team_id":94,
+            "player_id":21441,
+            "player":"Faitout Maouassa",
+            "number":17,
+            "pos":"D"
+          },
+          {
+            "team_id":94,
+            "player_id":2206,
+            "player":"Benjamin Bourigeaud",
+            "number":14,
+            "pos":"M"
+          },
+          {
+            "team_id":94,
+            "player_id":2207,
+            "player":"Eduardo Camavinga",
+            "number":18,
+            "pos":"M"
+          },
+          {
+            "team_id":94,
+            "player_id":2208,
+            "player":"Clément Grenier",
+            "number":8,
+            "pos":"M"
+          },
+          {
+            "team_id":94,
+            "player_id":2214,
+            "player":"Romain Del Castillo",
+            "number":22,
+            "pos":"F"
+          },
+          {
+            "team_id":94,
+            "player_id":2216,
+            "player":"M'Baye Niang",
+            "number":11,
+            "pos":"F"
+          }
+        ],
+        "substitutes":[
+          {
+            "team_id":94,
+            "player_id":2986,
+            "player":"Edouard Mendy",
+            "number":16,
+            "pos":"G"
+          },
+          {
+            "team_id":94,
+            "player_id":2195,
+            "player":"Sacha Boey",
+            "number":31,
+            "pos":"D"
+          },
+          {
+            "team_id":94,
+            "player_id":2200,
+            "player":"Gerzino Nyamsi",
+            "number":4,
+            "pos":"D"
+          },
+          {
+            "team_id":94,
+            "player_id":84128,
+            "player":"Yann Gboho",
+            "number":34,
+            "pos":"M"
+          },
+          {
+            "team_id":94,
+            "player_id":2212,
+            "player":"Jakob Johansson",
+            "number":6,
+            "pos":"M"
+          },
+          {
+            "team_id":94,
+            "player_id":2213,
+            "player":"James Léa Siliki",
+            "number":12,
+            "pos":"M"
+          },
+          {
+            "team_id":94,
+            "player_id":2219,
+            "player":"Jordan Siebatcheu",
+            "number":9,
+            "pos":"F"
+          }
+        ],
+        "coach":"J. Stéphan"
+      },
+      "Paris Saint Germain":{
+        "formation":"4-3-3",
+        "startXI":[
+          {
+            "team_id":85,
+            "player_id":253,
+            "player":"Alphonse Aréola",
+            "number":16,
+            "pos":"G"
+          },
+          {
+            "team_id":85,
+            "player_id":264,
+            "player":"Thomas Meunier",
+            "number":12,
+            "pos":"D"
+          },
+          {
+            "team_id":85,
+            "player_id":259,
+            "player":"Thiago Silva",
+            "number":2,
+            "pos":"D"
+          },
+          {
+            "team_id":85,
+            "player_id":7,
+            "player":"Abdou Diallo",
+            "number":22,
+            "pos":"D"
+          },
+          {
+            "team_id":85,
+            "player_id":258,
+            "player":"Juan Bernat",
+            "number":14,
+            "pos":"D"
+          },
+          {
+            "team_id":85,
+            "player_id":273,
+            "player":"Marco Verratti",
+            "number":6,
+            "pos":"M"
+          },
+          {
+            "team_id":85,
+            "player_id":257,
+            "player":"Marquinhos",
+            "number":5,
+            "pos":"M"
+          },
+          {
+            "team_id":85,
+            "player_id":267,
+            "player":"Julian Draxler",
+            "number":23,
+            "pos":"M"
+          },
+          {
+            "team_id":85,
+            "player_id":266,
+            "player":"Ángel Di María",
+            "number":11,
+            "pos":"F"
+          },
+          {
+            "team_id":85,
+            "player_id":274,
+            "player":"Edinson Cavani",
+            "number":9,
+            "pos":"F"
+          },
+          {
+            "team_id":85,
+            "player_id":278,
+            "player":"Kylian Mbappé",
+            "number":7,
+            "pos":"F"
+        }
+      ],
+      "substitutes":[
+        {
+          "team_id":85,
+          "player_id":2274,
+          "player":"Marcin Bułka",
+          "number":30,
+          "pos":"G"
+        },
+        {
+          "team_id":85,
+          "player_id":133110,
+          "player":"Tanguy Kouassi",
+          "number":33,
+          "pos":"D"
+        },
+        {
+          "team_id":85,
+          "player_id":260,
+          "player":"Colin Dagba",
+          "number":31,
+          "pos":"D"
+        },
+        {
+          "team_id":85,
+          "player_id":2990,
+          "player":"Idrissa Gueye",
+          "number":27,
+          "pos":"M"
+        },
+        {
+          "team_id":85,
+          "player_id":271,
+          "player":"Leandro Paredes",
+          "number":8,
+          "pos":"M"
+        },
+        {
+          "team_id":85,
+          "player_id":2056,
+          "player":"Pablo Sarabia",
+          "number":19,
+          "pos":"M"
+        },
+        {
+          "team_id":85,
+          "player_id":275,
+          "player":"Eric Maxim Choupo-Moting",
+          "number":17,
+          "pos":"F"
+        }
+      ],
+      "coach":"T. Tuchel"
+      }
+    },
+    "statistics":{
+      "Shots on Goal":{
+        "home":"4",
+        "away":"2"
+      },
+      "Shots off Goal":{
+        "home":"4",
+        "away":"7"
+      },
+      "Total Shots":{
+        "home":"11",
+        "away":"9"
+      },
+      "Blocked Shots":{
+        "home":"3",
+        "away":"0"
+      },
+      "Shots insidebox":{
+        "home":"8",
+        "away":"6"
+      },
+      "Shots outsidebox":{
+        "home":"3",
+        "away":"3"
+      },
+      "Fouls":{
+        "home":"15",
+        "away":"19"
+      },
+      "Corner Kicks":{
+        "home":"4",
+        "away":"7"
+      },
+      "Offsides":{
+        "home":"2",
+        "away":"2"
+      },
+      "Ball Possession":{
+        "home":"38%",
+        "away":"62%"
+      },
+      "Yellow Cards":{
+        "home":"1",
+        "away":"5"
+      },
+      "Red Cards":{
+        "home":"NULL",
+        "away":"NULL"
+      },
+      "Goalkeeper Saves":{
+        "home":"1",
+        "away":"2"
+      },
+      "Total passes":{
+        "home":"384",
+        "away":"591"
+      },
+      "Passes accurate":{
+        "home":"326",
+        "away":"526"
+      },
+      "Passes %":{
+        "home":"NULL",
+        "away":"NULL"
+      }
+    }
+  }
+  ]
+}

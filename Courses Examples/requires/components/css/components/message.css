@@ -1,0 +1,60 @@
+.message{
+	display: flex;
+	align-items: center;
+	padding: 15px 20px;
+	margin-bottom: 20px;
+	border-radius: 3px;
+	background-color: white;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 10px 0px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 10px 0px;
+	box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 10px 0px;
+}
+
+.message:hover{
+	cursor: pointer;
+	background-color: #F9F9F9;
+}
+
+.message-name{
+	padding: 0 20px;
+}
+
+.message-name h2{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	margin: 0;
+}
+
+.message-name p{
+	font-size: 13px;
+	color: #C4C4C4;
+	margin: 0;
+	width: 100px;
+}
+
+.message-description{
+	flex-grow: 1;
+	font-size: 13px;
+	color: #868686;
+}
+
+.message-status{
+	padding: 0 20px;
+	width: 70px;
+}
+
+.message-status p{
+	font-size: 13px;
+	margin: 0;
+}
+
+.status-accepted{
+	color: #5ABF20;
+	font-weight: bolder;
+}
+
+.status-refused{
+	color: #D53127;
+	font-weight: bolder;
+}

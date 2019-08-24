@@ -1,0 +1,19 @@
+{
+	"team": [
+		{
+			"name": "Paris-Saint Germain",
+			"nickname": "PSG",
+			"color": "Blue"
+		},
+		{
+			"name": "Valenciennes",
+			"nickname": "VAFC",
+			"color": "Red"
+		},
+		{
+			"name": "Barcelona",
+			"nickname": "FCB",
+			"color": "Blue/Red"
+		}
+	]
+}

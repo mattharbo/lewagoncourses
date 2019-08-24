@@ -1,0 +1,71 @@
+.gameblockcontainer{
+	border-radius: 4px;
+	padding-bottom: 10px;
+	background-color: white;
+	/*border: 1px solid #eaeaea;*/
+	-webkit-box-shadow: rgba(68, 68, 68, 0.12) 0px 1px 6px 0px;
+	-moz-box-shadow: rgba(68, 68, 68, 0.12) 0px 1px 6px 0px;
+	box-shadow: rgba(68, 68, 68, 0.12) 0px 1px 6px 0px;
+}
+.gameblockcontainertitle{
+	display: flex;
+	align-items: center;
+	padding: 15px 25px;
+}
+.gameblockcontainertitle img{
+	width: 18px;
+	height: 18px;
+}
+.gameblockcontainer h3{
+	font-size: 14px;
+	margin: 0 15px;
+}
+.gameblock{
+	display: flex;
+	align-items: center;
+	padding: 10px 25px;
+}
+.gameblock:hover{
+	cursor: pointer;
+	background-color: #F7F7F7;
+}
+.gameblock-league{
+	color:#C4C4C4;
+	font-size: 13px;
+	width: 80px;
+	overflow: hidden;
+  	text-overflow: ellipsis;
+}
+.teamname-bolder{
+	font-size: 15px;
+	font-weight: bolder;
+}
+.teamlogo{
+	height:25px; 
+	width:25px;
+	padding: 0 25px;
+}
+.game-info{
+	font-size: 15px;
+	text-align: center;
+	width: 40px;
+}
+.game-hour{
+	color: #ACACAC;
+}
+.game-finished{
+	font-weight: bolder;
+	color: black;
+}
+.teamname{
+	width: 220px;
+	white-space: nowrap;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+}
+.home{
+	text-align: right;
+}
+.away{
+	text-align: left;
+}

@@ -1,0 +1,28 @@
+.nav-app{
+	padding-inline-start: 0;
+	list-style-type: none;
+	margin: 0;
+	color: #888888;
+	-webkit-padding-start: 0px;
+}
+.nav-app-item{
+	width: 150px;
+	font-size: 14px;
+	font-weight: 500;
+	margin-bottom: 9px;
+	padding: 7px 0px 7px 50px;
+}
+.nav-app-item:hover{
+	border-radius: 4px;
+	color: #3547A4;
+	background-color: #E6EBF7;
+}
+.nav-app-item-activated{
+	background-color: #E6EBF7;
+	border-radius: 4px;
+	color: #3547A4;
+}
+.nav-app a{
+	text-decoration: none;
+	color: inherit;
+}
